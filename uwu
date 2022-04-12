@@ -1,0 +1,30 @@
+Файл решения Microsoft Visual Studio, формат версии 12.00
+# Visual Studio версии 17
+ВизуалСтудиоВерсион =  17.0.32112.339
+Минимальная версияVisualStudioVersion =  10.0.40219.1
+Проект ( "{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" ) = "QueueEx" , "QueueEx\QueueEx.vcxproj" , "{8032C9B2-6735-4E40-8AD8-B7B6589A49B5}"
+Конечный проект
+Глобальный
+	GlobalSection ( SolutionConfigurationPlatforms ) = preSolution
+		Отладка| x64 = Отладка | x64
+		Отладка| x86 = Отладка | x86
+		Релиз| x64 = выпуск | x64
+		Релиз| x86 = выпуск | x86
+	Эндглобалсектион
+	GlobalSection ( ProjectConfigurationPlatforms ) = postSolution
+		{8032C9B2-6735-4E40-8AD8-B7B6589A49B5} . Отладка| х64 . ActiveCfg = Отладка | x64
+		{8032C9B2-6735-4E40-8AD8-B7B6589A49B5} . Отладка| х64 . Построить . 0 = Отладка| x64
+		{8032C9B2-6735-4E40-8AD8-B7B6589A49B5} . Отладка| х86 . ActiveCfg = Отладка | Win32
+		{8032C9B2-6735-4E40-8AD8-B7B6589A49B5} . Отладка| х86 . Построить . 0 = Отладка| Win32
+		{8032C9B2-6735-4E40-8AD8-B7B6589A49B5} . Релиз| х64 . ActiveCfg = Выпуск| x64
+		{8032C9B2-6735-4E40-8AD8-B7B6589A49B5} . Релиз| х64 . Построить . 0 = Освобождение| x64
+		{8032C9B2-6735-4E40-8AD8-B7B6589A49B5} . Релиз| х86 . ActiveCfg = Выпуск| Win32
+		{8032C9B2-6735-4E40-8AD8-B7B6589A49B5} . Релиз| х86 . Построить . 0 = Освобождение| Win32
+	Эндглобалсектион
+	GlobalSection ( Свойства решения ) = предварительное решение
+		HideSolutionNode =  ЛОЖЬ
+	Эндглобалсектион
+	GlobalSection ( ExtensibilityGlobals ) = postSolution
+		SolutionGuid =  {27A0500F-E786-44AE-B45C-C53E62B16CAA}
+	Эндглобалсектион
+EndGlobal
